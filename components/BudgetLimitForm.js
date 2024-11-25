@@ -1,6 +1,5 @@
 import React, { useState, useContext } from 'react';
 import { BudgetContext } from '../context/BudgetContext';
-
 const BudgetLimitForm = () => {
   const { setBudgetLimit } = useContext(BudgetContext);
   const [category, setCategory] = useState('');

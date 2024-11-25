@@ -5,6 +5,11 @@ import { format } from 'date-fns';
 const TransactionForm = () => {
   const { addTransaction } = useContext(BudgetContext);
 
+  <div className="p-4 bg-white dark:bg-gray-800 shadow rounded-md">
+  <h2 className="text-xl font-bold mb-4 dark:text-gray-200">Gelir ve Gider Ekle</h2>
+  {/* Form içeriği */}
+  </div>
+
   const [formData, setFormData] = useState({
     type: 'income',
     category: '',

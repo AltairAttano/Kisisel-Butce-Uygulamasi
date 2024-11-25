@@ -136,4 +136,4 @@ Uygulama, kullanıcıların gelir ve giderlerini takip etmelerini, bütçe limit
 ---
 
 ## **Sonuç**
-Bu uygulama, modern web geliştirme teknolojileri ile tasarlanmış kullanıcı dostu bir kişisel bütçe takip aracıdır. Kullanıcının tüm ihtiyaçlarını karşılayan, performanslı ve esnek bir çözüm sunar. 😊
+Bu uygulama, modern web geliştirme teknolojileri ile tasarlanmış kullanıcı dostu bir kişisel bütçe takip aracıdır. Kullanıcının tüm ihtiyaçlarını karşılayan, performanslı ve esnek bir çözüm sunar.

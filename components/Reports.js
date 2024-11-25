@@ -3,7 +3,8 @@ import { Bar, Pie } from 'react-chartjs-2';
 import { BudgetContext } from '../context/BudgetContext';
 import { format } from 'date-fns';
 import PDFDownloadButton from './PDFDownloadButton';
-
+import { Chart as ChartJS } from 'chart.js/auto'
+import { Chart }            from 'react-chartjs-2'
 const Reports = () => {
   const { transactions } = useContext(BudgetContext);
 
